@@ -3,8 +3,10 @@
 ## Setup Instructions
 
 1. **Clone the repository**
-
-
+    ```
+    https://github.com/fajarsid/todo_api
+    ```
+    
 2. **Install dependencies**
    ```
    pip install fastapi uvicorn sqlalchemy pydantic
